@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: NVMe Based Products
     features:
-      - title: All Flash EndNVMe Storage
+      - title: All Flash End-to-end NVMe Storage
         content: >
           Reach new levels of cost efficiency, performance, density and high
           availability for any workload
