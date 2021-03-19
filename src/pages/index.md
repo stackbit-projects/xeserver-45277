@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: NVMe Based Products
     features:
-      - title: All Flash and Hybrid Flash NVMe Storage
+      - title: All and Hybrid Flash NVMe Storage
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
