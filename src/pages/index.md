@@ -51,10 +51,9 @@ sections:
             url: /features
             style: secondary
       - title: Tape Storage
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Reliable tape storage technology with airgap, long-term retention,
+          cyber resilient and energy-efficient at a lower cost than other media
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
