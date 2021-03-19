@@ -32,7 +32,7 @@ sections:
           Reach new levels of cost efficiency, performance, density and high
           availability for any workload
         align: left
-        image: images/feature.svg
+        image: images/flashsystem5200-angled-600w x 282h.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
