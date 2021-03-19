@@ -43,7 +43,7 @@ sections:
         content: |
           Highest Performance and Flexibility for Enterprise Applications
         align: left
-        image: images/feature.svg
+        image: images/SYS-2029U-TN24R4T_FrontJMZBanner.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
