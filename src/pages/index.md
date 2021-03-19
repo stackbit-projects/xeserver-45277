@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: IT Infrastructure Solution Provider in middle-east
-    subtitle: We provide high performance solutions for your modern data center
+    subtitle: >-
+      We provide high performance solutions for your modern data center to make
+      you concentrate in your business with peace of mind
     actions:
       - label: Learn More
         url: /features
