@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: IT Infrastructure Solution Provider
+    title: IT Infrastructure Solution Provider in middle-east
     subtitle: We provide high performance solutions for your modern data center
     actions:
       - label: Learn More
