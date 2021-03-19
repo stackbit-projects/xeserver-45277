@@ -28,10 +28,9 @@ sections:
     title: NVMe Based Products
     features:
       - title: All and Hybrid Flash NVMe Storage
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Reach new levels of cost efficiency, performance, density and high
+          availability for any workload
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
