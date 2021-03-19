@@ -55,7 +55,8 @@ sections:
           Reliable tape storage technology with airgap, long-term retention,
           cyber resilient and energy-efficient at a lower cost than other media
         align: left
-        image: images/feature.svg
+        image: >-
+          images/lenovo-data-center-storage-ibm-ts4300-tape-library-series-subseries-hero.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
